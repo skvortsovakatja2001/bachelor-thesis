@@ -1,0 +1,26 @@
+.ipynb_checkpoints/
+.gitignore.save
+# OS files
+dataset/
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# Python (if applicable)
+__pycache__/
+*.pyc
+venv/
+.env/
+
+# Build / output
+build/
+dist/
+out/
+
